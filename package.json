@@ -20,6 +20,6 @@
 	"homepage": "https://bitbucket.org/nbl7/urn-trx-dep-dev#readme",
 	"devDependencies": {},
 	"dependencies": {
-		"urn-web-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-api-dep-dev.git"
+		"urn-api-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-api-dep-dev.git"
 	}
 }
