@@ -20,6 +20,7 @@
 	"homepage": "https://bitbucket.org/nbl7/urn-trx-dep-dev#readme",
 	"devDependencies": {},
 	"dependencies": {
+		"netlify-cli": "^8.1.0",
 		"urn-api-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-api-dep-dev.git"
 	}
 }
