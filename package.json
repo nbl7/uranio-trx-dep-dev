@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@bitbucket.org/nbl7/urn-trx-dep-dev.git"
+		"url": "git+ssh://git@github.com/nbl7/uranio-trx-dep-dev.git"
 	},
 	"keywords": [
 		"uranio",
@@ -17,12 +17,12 @@
 	],
 	"author": "Andrea Reni <mail@nbl7.net>",
 	"license": "ISC",
-	"homepage": "https://bitbucket.org/nbl7/urn-trx-dep-dev#readme",
+	"homepage": "https://github.com/nbl7/uranio-trx-dep-dev#readme",
 	"devDependencies": {},
 	"dependencies": {
 		"netlify-cli": "^8.1.0",
 		"ts-loader": "^9.2.6",
-		"urn-api-dep-dev": "git+ssh://git@bitbucket.org/nbl7/urn-api-dep-dev.git",
+		"urn-api-dep-dev": "git+ssh://git@github.com/nbl7/uranio-api-dep-dev.git",
 		"webpack": "^5.65.0",
 		"webpack-cli": "^4.9.1",
 		"webpack-dev-server": "^4.6.0"
