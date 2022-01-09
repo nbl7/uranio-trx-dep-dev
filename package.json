@@ -24,6 +24,7 @@
 	},
 	"dependencies": {
 		"netlify-cli": "^8.1.0",
+		"@oclif/command": "^1.8.13",
 		"ts-loader": "^9.2.6",
 		"urn-api-dep-dev": "git+ssh://git@github.com/nbl7/uranio-api-dep-dev.git",
 		"webpack": "^5.65.0",
