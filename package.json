@@ -19,6 +19,9 @@
 	"license": "ISC",
 	"homepage": "https://github.com/nbl7/uranio-trx-dep-dev#readme",
 	"devDependencies": {},
+	"resolutions": {
+		"@oclif/plugin-help": "3.2.14"
+	},
 	"dependencies": {
 		"netlify-cli": "^8.1.0",
 		"ts-loader": "^9.2.6",
