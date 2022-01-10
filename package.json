@@ -20,7 +20,8 @@
 	"homepage": "https://github.com/nbl7/uranio-trx-dep-dev#readme",
 	"devDependencies": {},
 	"resolutions": {
-		"@oclif/plugin-help": "3.2.14"
+		"@oclif/plugin-help": "3.2.14",
+		"colors": "1.4.0"
 	},
 	"dependencies": {
 		"netlify-cli": "^8.1.0",
